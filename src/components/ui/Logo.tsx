@@ -10,7 +10,7 @@ export default function Logo(){
                     autoStart: true,
                     loop: true,
                     delay: 50,
-                    strings: ["Ta'limga Kirish"]
+                    strings: ["Psixologiya"]
                 }}
                 />
            </span>

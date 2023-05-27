@@ -10,33 +10,18 @@ export default function HomeText(){
                     <div id="carouselExampleFade" className="carousel slide carousel-fade" data-ride="carousel">
                         <div className="carousel-inner">
                             <div className="carousel-item active">
-                            <p className="item-1"> Ushbu <span className="fw-bold site">sayt</span> talabalar bilimlarini mazmun jihatdan zamon 
-                                talablariga mos yangilab borish hamda ta’lim tizimidagi xorijiy tajribalarini 
-                                o‘rganish masalalariga qaratilgan. Shuningdek dunyo reytingida yuqori o‘rinlardan 
-                                joy olgan AQSH, Yevropa, Osiyo, Sharq hamda MDH mamlakatlari yetakchi oliy 
-                                ta’lim muassasalaridagi innovatsion ta’lim jarayoni haqidagi zaruriy ma’lumotlar 
-                                ham keltirilgan. Va boshqa ko'plab malumotlarga yo'nalishlar ham berilgan
+                            <p className="item-1">Zamonaviy dunyoda inson har doimgidan ham ko'proq psixologiyaga muhtoj. Axir, har birimiz stress va muammolar bilan o'ralganmiz. Zamonaviy bolalarning qo'rquv yoki stressdan psixologik shikastlanishlari tez-tez uchraydi. Bolalar psixologik kasalliklarga juda moyil, chunki zamonaviy dunyoda shahvat, buzuqlik, zo'ravonlik hamma joyda mavjud. Kompyuter juda katta ta'sirga ega, chunki agar bola bolaligidan shafqatsiz o'yinlarni o'ynasa, keyinchalik bu shafqatsizlik uning o’ziga va yaqinlariga zarba beradi.
                                 </p>
                             </div>
                             <div className="carousel-item">
                             <p className="item-1">
-                                Данное <span className="site">сайт</span> пособие охватывает вопросы изучения зарубежного 
-                                опыта в системе образования и направлено на обновление знаний студентов в 
-                                соответствии с современными требованиями. Также представлена 
-                                необходимая информация об инновационном образователном процессе в 
-                                ведущих высших учебных заведениях США, Европы, Азии, Востока, стран 
-                                СНГ занимающих высокие места в мировых рейтингах.
+                            В современном мире психология нужна людям как никогда. Ведь каждого из нас окружают стрессы и проблемы. Современные дети часто страдают психологическими травмами от страха или стресса. Дети очень подвержены психологическим заболеваниям, потому что в современном мире повсюду похоть, коррупция, насилие. Большое влияние имеет компьютер, ведь если ребенок с детства играет в жестокие игры, то эта жестокость коснется его и его близких.
 
                                  </p>
                             </div>
                             <div className="carousel-item">
                             <p className="item-1">
-                                This <span className="site">site</span> covers the issues of studying foreign experience in the 
-                                education system and is aimed at updating students ' knowledge in accordance with 
-                                modern requirements. It also provides the necessary information about the 
-                                Innovative Educational Process in the leading higher educational institutions of the 
-                                United States, Europe, Asia, the East, and the CIS countries, which occupy high 
-                                places in the world rankings.
+                            In the modern world, people need psychology more than ever. After all, each of us is surrounded by stress and problems. Modern children often suffer psychological damage from fear or stress. Children are very prone to psychological diseases, because in the modern world lust, corruption, violence are everywhere. The computer has a great influence, because if a child plays cruel games from childhood, then this cruelty will affect him and his loved ones.
                                 </p>
                             </div>
                         </div>

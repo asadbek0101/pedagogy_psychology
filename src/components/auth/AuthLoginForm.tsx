@@ -66,7 +66,7 @@ export default function AuthLoginForm({initialValues, setInitialValues, onChange
                  </div>
                 
                     <div className="col-12 mt-3">
-                    <Button type="submit" className="w-100 text-light py-2" style={{ backgroundColor: '#2e5c87'}}>
+                    <Button type="submit" className="w-100 text-light py-2" style={{ backgroundColor: '#0082D0'}}>
                         Yuborish
                     </Button>
                     </div>

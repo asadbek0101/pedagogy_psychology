@@ -32,6 +32,12 @@ export default function Modal({children, show = true, closeHandler, className, w
     
     return (
         <div className={`modal-container ${className}`}>
+            <button
+                className="close-button"
+                onClick={closeHandler}
+                >
+                x
+            </button>
             <div className="modal-children" style={{width: `${width}`, height: `${height}`}}>{children}</div>
         </div>
     )
