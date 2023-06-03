@@ -40,24 +40,27 @@ export default function AboutSite(){
                 <div className="col-6">
                 <Text>
                     <strong>
-                        Muallif: Ism Familiya
+                        Muallif: Shamsiddinova Rano O'lmas qizi
                     </strong>
                     <br />
-                    Lorem ipsum, dolor sit amet consectetur adipisicing elit. Ab, ullam ducimus! Tempora a doloribus voluptatem aliquam necessitatibus nobis asperiores quasi, praesentium sit inventore dolores adipisci dolore veritatis eum voluptatibus omnis pariatur illo similique cumque, voluptas eius in. Accusantium, obcaecati optio quas adipisci sapiente neque. Delectus iste eum fuga tempore id nostrum aliquam commodi fugiat similique, blanditiis animi voluptatibus numquam facere aut error reiciendis. Nulla eligendi aspernatur non voluptas, minus, quam vero nobis voluptatibus earum quia ab. Consectetur ducimus eius quo cumque harum, perspiciatis quae cupiditate minima architecto. Porro itaque accusamus maxime architecto natus tenetur aspernatur vitae! Consectetur laudantium delectus sequi?
+                     Shamsiddinova Rano O'lmas qizi Toshkent Axborot Texnalogiyalari universiteti Kasb ta'limi yo'nalishi bo'yicha tahsil  olgan. 
+                    <br />
+                     Mutaxasisligim sababli bundan tashqari,pedagogika psixalogiya qiziqishim sababli ushbu saytni bitiruv malakaviy ishimga tanladim va o'z bilimlarim asosida 
+                     yaratdim.
+
+
+                        <br />
+
+                        Sayt qurishda ishlatgan texnologiyalarim: <br /> Frontend "Old tomon" : <strong>React js</strong> <br /> Backend "Orqa tomon" : <strong>Java</strong> <br /> Database "Ma'lumotlar bazasi": <strong>PostgreSQL</strong>
                 </Text>
-                <Text>
+                <Text className="text-justify">
                     <strong>
-                        Muallif: Ism Familiya
+                        Sayt yaratishdan maqsad
                     </strong>
                     <br />
-                    Lorem ipsum, dolor sit amet consectetur adipisicing elit. Ab, ullam ducimus! Tempora a doloribus voluptatem aliquam necessitatibus nobis asperiores quasi, praesentium sit inventore dolores adipisci dolore veritatis eum voluptatibus omnis pariatur illo similique cumque, voluptas eius in. Accusantium, obcaecati optio quas adipisci sapiente neque. Delectus iste eum fuga tempore id nostrum aliquam commodi fugiat similique, blanditiis animi voluptatibus numquam facere aut error reiciendis. Nulla eligendi aspernatur non voluptas, minus, quam vero nobis voluptatibus earum quia ab. Consectetur ducimus eius quo cumque harum, perspiciatis quae cupiditate minima architecto. Porro itaque accusamus maxime architecto natus tenetur aspernatur vitae! Consectetur laudantium delectus sequi?
-                </Text>
-                <Text>
-                    <strong>
-                        Muallif: Ism Familiya
-                    </strong>
-                    <br />
-                    Lorem ipsum, dolor sit amet consectetur adipisicing elit. Ab, ullam ducimus! Tempora a doloribus voluptatem aliquam necessitatibus nobis asperiores quasi, praesentium sit inventore dolores adipisci dolore veritatis eum voluptatibus omnis pariatur illo similique cumque, voluptas eius in. Accusantium, obcaecati optio quas adipisci sapiente neque. 
+                    Mustaqillikka erishilgandan keyin barcha sohalardagi kabi ta’lim tizimida ham jiddiy islohatlar amalga oshirildi ta’limning sifatini yaxshilashga kirishildi. Shu boisdan bugungi kunda talabalarga sifatli ta’lim berishni tashkil qilishda ilmiy-tехnika taraqqiyoti mahsuli bo‘lgan zamоnaviy aхbоrоt tехnоlоgiyalari va uning mоddiy asоsi kоmpyutеrlar хizmatidan kеng fоydalanib elеktrоn darslik va qo‘llanmalar tashkil etish va internet manbalaridan hamda masofadan o‘qitishning dasturiy vositalaridan foydalanish davr talabi bo‘lib qоlmоqda. O‘zbekiston Respublikasida oliy ta’limni tizimli isloh qilishning ustuvor yo‘nalishlarini belgilash, zamonaviy bilim va yuksak ma’naviy-axloqiy fazilatlarga ega, mustaqil fikrlaydigan yuqori malakali kadrlar tayyorlash jarayonini sifat jihatidan yangi bosqichga ko‘tarish, oliy ta’limni modernizatsiya qilish, ilg‘or ta’lim texnologiyalariga asoslangan holda ijtimoiy soha va iqtisodiyot tarmoqlarini rivojlantirish maqsadida. O‘zbekiston Respublikasi Prezidentining farmoniga [1] ilova sifatida O‘zbekiston Respublikasi oliy ta’lim tizimini 2030-yilgacha rivojlantirish Konsepsiyasi ishlab chiqildi. Konsepsiya 3-bob 2-paragrfiga binoan ta’lim jarayonlarini raqamli texnologiyalar asosida individuallashtirish, masofaviy ta’lim xizmatlarini rivojlantirish, vebinar, onlayn, “blended learning”, “flipped classroom” texnologiyalarini amaliyotga keng joriy etish va zamonaviy axborot-kommunikatsiya texnologiyalari asosida masofaviy ta’lim dasturlarini tashkil etish
+                    kabi chora tatbirlar ko‘zda tutilgan. Shu sababdan ham ushbu bitiruv malakaviy ishi Psixologiya fanidan amaliy mashg’ulotlar uchun web sayt ishlab chiqish mavzusi ilgari surilgan.Bu orqali oliy ta’lim talabalarining psixologiya fanini chuqur o’rganishida masofadan turib bilim olish va qo’shimcha ma’lumotlar olish imkoniyatiga ega bo’ladi.
+
                 </Text>
                 </div>
                 <div className="col-6">

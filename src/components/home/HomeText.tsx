@@ -10,18 +10,18 @@ export default function HomeText(){
                     <div id="carouselExampleFade" className="carousel slide carousel-fade" data-ride="carousel">
                         <div className="carousel-inner">
                             <div className="carousel-item active">
-                            <p className="item-1">Zamonaviy dunyoda inson har doimgidan ham ko'proq psixologiyaga muhtoj. Axir, har birimiz stress va muammolar bilan o'ralganmiz. Zamonaviy bolalarning qo'rquv yoki stressdan psixologik shikastlanishlari tez-tez uchraydi. Bolalar psixologik kasalliklarga juda moyil, chunki zamonaviy dunyoda shahvat, buzuqlik, zo'ravonlik hamma joyda mavjud. Kompyuter juda katta ta'sirga ega, chunki agar bola bolaligidan shafqatsiz o'yinlarni o'ynasa, keyinchalik bu shafqatsizlik uning o’ziga va yaqinlariga zarba beradi.
+                            <p className="item-1">Ushbu bitiruv malakaviy ishi  “Psixologiya fanidan amaliy mashg’ulotlar uchun web sayt ishlab chiqishga qaratilgan.Bitiruv malakaviy ishida Psixologiya fani haqida mavzulashtirilgan ma’lumotlar jamlangan. Web sayt fanga oid barcha amaliy mashg’ulotlarni o’z ichiga oladi. Bundan tashqari saytda fan bo’yicha yangiliklar va interaktiv o’yinlardan foydalanish imkoniyati mavjud.
                                 </p>
                             </div>
                             <div className="carousel-item">
                             <p className="item-1">
-                            В современном мире психология нужна людям как никогда. Ведь каждого из нас окружают стрессы и проблемы. Современные дети часто страдают психологическими травмами от страха или стресса. Дети очень подвержены психологическим заболеваниям, потому что в современном мире повсюду похоть, коррупция, насилие. Большое влияние имеет компьютер, ведь если ребенок с детства играет в жестокие игры, то эта жестокость коснется его и его близких.
+                            Данная выпускная работа направлена на разработку сайта для практических занятий по психологии.Выпускная работа содержит тематическую информацию о науке психологии. Сайт содержит все практические занятия, связанные с наукой. Кроме того, сайт предлагает новости науки и интерактивные игры.
 
                                  </p>
                             </div>
                             <div className="carousel-item">
                             <p className="item-1">
-                            In the modern world, people need psychology more than ever. After all, each of us is surrounded by stress and problems. Modern children often suffer psychological damage from fear or stress. Children are very prone to psychological diseases, because in the modern world lust, corruption, violence are everywhere. The computer has a great influence, because if a child plays cruel games from childhood, then this cruelty will affect him and his loved ones.
+                            This graduation thesis is focused on the development of a website for practical training in psychology. The graduation thesis contains thematic information about the science of psychology. The website contains all practical exercises related to science. In addition, the site offers science news and interactive games.
                                 </p>
                             </div>
                         </div>
