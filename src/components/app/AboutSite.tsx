@@ -45,13 +45,9 @@ export default function AboutSite(){
                     <br />
                      Shamsiddinova Rano O'lmas qizi Toshkent Axborot Texnalogiyalari universiteti Kasb ta'limi yo'nalishi bo'yicha tahsil  olgan. 
                     <br />
-                     Mutaxasisligim sababli bundan tashqari,pedagogika psixalogiya qiziqishim sababli ushbu saytni bitiruv malakaviy ishimga tanladim va o'z bilimlarim asosida 
+                     Mutaxasisligim sababli bundan tashqari,pedagogika psixalogiya qiziqishim sababli ushbu saytni o'z bilimlarim asosida 
                      yaratdim.
-
-
                         <br />
-
-                        Sayt qurishda ishlatgan texnologiyalarim: <br /> Frontend "Old tomon" : <strong>React js</strong> <br /> Backend "Orqa tomon" : <strong>Java</strong> <br /> Database "Ma'lumotlar bazasi": <strong>PostgreSQL</strong>
                 </Text>
                 <Text className="text-justify">
                     <strong>
