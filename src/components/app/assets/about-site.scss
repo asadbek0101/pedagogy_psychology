@@ -1,0 +1,22 @@
+.imga-view{
+    padding: 10px;
+    img{
+        border-radius: 10px;
+    }
+}
+
+.img-menu{
+    .image-menu-item{
+        cursor: pointer;
+        padding: 10px;
+    }
+
+    img{
+        border-radius: 10px;
+    }
+
+    .active-image-item{
+        border: 2px solid rgb(123, 112, 112);
+        box-shadow: 2px 4px 4px black;
+    }
+}

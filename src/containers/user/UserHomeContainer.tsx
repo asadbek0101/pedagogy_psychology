@@ -1,3 +1,4 @@
+import AboutSite from "../../components/app/AboutSite";
 import ArticleMenuWrapper from "../../components/article/ArticleMenuWrapper";
 import GlassoryMenuWrapper from "../../components/glassory/GlassoryMenuWrapper";
 import BooksList from "../../components/home/BooksList";
@@ -14,6 +15,7 @@ export default function UserHomeContainer(){
             <GlassoryMenuWrapper/>
             <TestMenuWrapper/>
             <BooksList/>
+            <AboutSite/>
         </div>
     )
 }
