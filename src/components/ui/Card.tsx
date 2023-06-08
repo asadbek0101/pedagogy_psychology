@@ -9,7 +9,7 @@ export default function Card({entity, setEntity}:Props){
     return (
         <div className="custom-card">
             <div className="bg-image hover-overlay ripple" data-mdb-ripple-color="light">
-                <img width="100%" src="https://exoffender.org/wp-content/uploads/2016/09/education-icon.png"/>
+                <img width="100%" src="https://static.tildacdn.com/tild3134-6632-4566-b535-376132346262/zeynep-sumer-beyin-b.jpg"/>
             </div>
             <div className="custom-card-body">
                 <h5 className="custom-card-title mt-2">{entity?.title}</h5>
