@@ -28,7 +28,7 @@ export default function GlassoryMenuWrapper(){
     return (
         <div className="container">
                 <Title>
-                    Maqolalar
+                    Maruzalar
                 </Title>
                 <ArticleMenu
                     menu={articles}
